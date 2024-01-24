@@ -40,8 +40,6 @@
 
 </div>
  --}}
- <!-- resources/views/livewire/comment-component.blade.php -->
-<!-- resources/views/livewire/comment-component.blade.php -->
 
 <div>
     <button wire:click="toggleCommentForm">Add Comment</button>
